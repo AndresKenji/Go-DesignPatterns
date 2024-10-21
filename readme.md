@@ -1,10 +1,14 @@
-# Solid Design Principles
+## Table of content
 
-1. [S](#s---single-responsibility-principle-srp)
-2. [O](#o---openclosed-principle-ocp)
-3. [L](#l---liskov-substitution-principle-lsp)
-4. [I](#i---interface-segregation-principle-isp)
-5. [D](#d---dependency-inversion-principle-dip)
+1. [Solid Design Principles](#solid-design-principles)
+2. [SRP](#s---single-responsibility-principle-srp)
+3. [OCP](#o---openclosed-principle-ocp)
+4. [LSP](#l---liskov-substitution-principle-lsp)
+5. [ISP](#i---interface-segregation-principle-isp)
+6. [DIP](#d---dependency-inversion-principle-dip)
+7. [Builder](./01-builder/builder.md)
+
+# Solid Design Principles
 
 The SOLID design principles are a set of five design guidelines introduced to promote maintainable, scalable, and robust software architecture. 
 These principles help developers create systems that are easier to understand, extend, and modify over time, reducing the chances of introducing bugs when making changes. 
