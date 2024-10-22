@@ -7,6 +7,7 @@
 5. [ISP](#i---interface-segregation-principle-isp)
 6. [DIP](#d---dependency-inversion-principle-dip)
 7. [Builder](./01-builder/builder.md)
+8. [Factory](./02-factory/readme.md)
 
 # Solid Design Principles
 
