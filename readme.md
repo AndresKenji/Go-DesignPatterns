@@ -1,13 +1,13 @@
 ## Table of content
 
 1. [Solid Design Principles](#solid-design-principles)
-2. [SRP](#s---single-responsibility-principle-srp)
-3. [OCP](#o---openclosed-principle-ocp)
-4. [LSP](#l---liskov-substitution-principle-lsp)
-5. [ISP](#i---interface-segregation-principle-isp)
-6. [DIP](#d---dependency-inversion-principle-dip)
-7. [Builder](./01-builder/builder.md)
-8. [Factory](./02-factory/readme.md)
+    1. [SRP](#s---single-responsibility-principle-srp)
+    1. [OCP](#o---openclosed-principle-ocp)
+    1. [LSP](#l---liskov-substitution-principle-lsp)
+    1. [ISP](#i---interface-segregation-principle-isp)
+    1. [DIP](#d---dependency-inversion-principle-dip)
+1. [Builder](./01-builder/builder.md)
+1. [Factory](./02-factory/readme.md)
 
 # Solid Design Principles
 
